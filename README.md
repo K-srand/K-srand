@@ -1,4 +1,5 @@
-![hi](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Hi!%20I'm%20Suji%20Kim&section=header&fontColor=00)
+![hi](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Hi!%20I'm%20Suji&section=header&fontColor=00)
+
 Hi guys!
 
 Welcome my Git World.
