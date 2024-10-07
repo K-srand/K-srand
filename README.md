@@ -1,6 +1,6 @@
 ![hi](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Hi!%20I'm%20Suji&section=header&fontColor=00)
 
-안녕하세요, 배움과 지식 나누기를 좋아하는 예비 백엔드 개발자 김수지입니다!
+안녕하세요, 배움과 지식 나누기를 좋아하는 예비 백엔드 개발자입니다!
 
 ### 🦾 Skills
 **🧑‍💻 Lang and Frameworks**
